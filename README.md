@@ -1,4 +1,4 @@
-# Coding Challenge #1
+# Admissions Challenge 1 of 2
 
 When you've completed all exercises, email a `.js` file with all your answers to admissions@makersquare.com.
 
