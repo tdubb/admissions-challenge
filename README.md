@@ -1,6 +1,10 @@
 # Admissions Challenge 1 of 2
 
-When you've completed all exercises, email a `.js` file with all your answers to admissions@makersquare.com.
+This is the first of two Admissions Challenges for MakerSquare. This will show your knowledge of basic JavaScript. The next one will be more advanced, and will be presented to you after your "Admissions Q&A Interview".
+
+Create a 'mks-admissions-challenge-1.js' file that has the answers to each of these exercises. All exercise answers should be in the same file, separated by comments. 
+
+When you've completed all exercises, email your 'mks-admissions-challenge-1.js' file to admissions@makersquare.com.
 
 ----
 ## Exercise #1.1
