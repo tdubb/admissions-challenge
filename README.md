@@ -4,9 +4,11 @@ This is the first of two Admissions Challenges for MakerSquare. This will show y
 
 Create a 'mks-admissions-challenge-1.js' file that has the answers to each of these exercises. All exercise answers should be in the same file, separated by comments. 
 
-###When you're finished, send an email to admissions@makersquare.com with...
-1) Attachment of your 'mks-admissions-challenge-1.js' file.
-2) Attachment of your resume or a link to your LinkedIn profile.
+#### When you're finished...
+Send an email to admissions@makersquare.com with the following.
+
+- Attachment of your 'mks-admissions-challenge-1.js' file.
+- Attachment of your resume or a link to your LinkedIn profile.
 
 ----
 ## Exercise #1.1
