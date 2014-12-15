@@ -13,7 +13,7 @@ Create a 'mks-admissions-challenge-1.js' file that has the answers to each of th
 
 This challenge will require you to decode messages that we've written out for you. You will be required to write your code in JavaScript. You should have 1 function called `translate` that takes an input of an array and gives an output of a single string.
 
-If you're having trouble solving this, you should review [Codecademy](http://www.codecademy.com/en/tracks/javascript) and our [JS Intro course](mks.io/js-intro).
+If you're having trouble solving this, you should review [Codecademy](http://www.codecademy.com/en/tracks/javascript) and our [JS Intro course](http://mks.io/js-intro).
 
 ## Step 1
 
