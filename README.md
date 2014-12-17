@@ -88,7 +88,7 @@ result = translate(["bria", "loud", "fuzu", "antidote]);
 console.log(result); // This should print blue
 ```
 
-## Step 3 - extra credit
+## Step 3 - Extra Credit
 
 This is not required. You should schedule an interview before you attempt this.
 
@@ -111,6 +111,4 @@ This message would decode to "webdev".
 
 # Coding Challenge Part 2
 
-If you're not satisfied with the depth of this challenge, don't sweat it. You can go ahead and get started with our 2nd coding challenge which you will be required to complete before your final interview. Remember to schedule your first interview before starting this next challenge.
-
-[Next Coding Challenge](https://github.com/makersquare/admissions-challenge-2)
+Submit a completed version of this first challenge to access the next one. You'll be given the link to the second one automatically upon submission of this one. 
