@@ -11,7 +11,14 @@ Create a 'mks-admissions-challenge-1.js' file that has the answers to each of th
 
 ## Passing notes in class
 
-This challenge will require you to decode messages that we've written out for you. You will be required to write your code in JavaScript. You should have 1 function called `translate` that takes an input of an array and gives an output of a single string.
+This challenge will require you to decode messages that we've written out for you. You will be required to write your code in JavaScript. You should have 1 function called `translate` that takes an input of an array and gives an output of a single string:
+
+```javascript
+var translate = function(arr) {
+  // Your code goes here.
+  // You'll process the array arr and return a string with the message
+};
+```
 
 If you're having trouble solving this, you should review [Codecademy](http://www.codecademy.com/en/tracks/javascript) and our [JS Intro course](http://mks.io/js-intro).
 
@@ -31,6 +38,19 @@ On first glance, this may seem like an odd sentence. However, if you look at the
 
 Your task: given an array of words, translate the encoded message and retrieve the message needed.
 
+Here are a couple of examples:
+
+```javascript
+var translate = function(arr) {
+  // Your code here
+};
+
+var result = translate(["laugh", "ride", "lol", "hall", "bozo"]);
+console.log(result); // This should print hello
+
+result = translate(["dog", "polo", "boo", "sudd", "noob", "smiley", "ride"]);
+console.log(result); // This should print goodbye
+```
 
 ## Step 2
 
@@ -54,6 +74,19 @@ end
 ```
 
 This will translate to "welcome".
+
+Here's how the function should work:
+
+```javascript
+var translate = function(arr) {
+  // Your code here
+};
+var result = translate(["wazdee", "apple", "love", "bic", "nooo", "more", "end"]);
+console.log(result); // This should print welcome
+
+result = translate(["bria", "loud", "fuzu", "antidote]);
+console.log(result); // This should print blue
+```
 
 ## Step 3 - extra credit
 
