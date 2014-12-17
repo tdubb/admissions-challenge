@@ -111,4 +111,4 @@ This message would decode to "webdev".
 
 # Coding Challenge Part 2
 
-Submit a completed version of this first challenge to access the next one. You'll be given the link to the second one automatically upon submission of this one. 
+[Submit](https://makersquare.typeform.com/to/wdEmGQ) a completed version of this first challenge to access the next one. You'll be given the link to the second one automatically upon submission of this one. 
