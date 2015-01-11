@@ -99,7 +99,7 @@ This is much more complicated than the previous schemes. Here are some examples:
 - The message `oh i understand banter` decrypts to `out` - since the second word needs a second letter, it continues into the next word's letters to find it. In this case it steps **1 letter** into the next word.
 - The message `a ob ooc dd oeoo ooooof` decrypts to `abcef` - since the fourth word needs a fourth letter, it continues into the next word's letters to find it. In this case it steps **2 letters** into the next word.
 - The message `a b c` decrypts to `ac` - since the second word needs a second letter, it continues into the next word's letters to find it. Afterwards, because `c` is already consumed, there are no more words to continue with.
-- The message `a b c d e f` decrypts to `acf` - both words `b` and `d` need to step into their next words in order to get their letters.
+- The message `a b c d e f g` decrypts to `acg` - both words `b` and `d` need to step into their next words in order to get their letters.
 
 Write a `decryptC` function so that it decrypts messages with this new scheme.
 
