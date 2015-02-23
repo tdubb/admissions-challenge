@@ -10,7 +10,7 @@ To get started, create a file called `mks-admissions-challenge-1.js`. In this fi
 ----
 ## Challenge: Passing around notes in class
 
-In this challenge you will write be decoding secret messages using JavaScript. You will write a function `decrypt` that will receive a string and return a decrypted string:
+In this challenge you will be decoding secret messages using JavaScript. You will write a function `decrypt` that will receive a string and return a decrypted string:
 
 ```javascript
 var decryptA = function(message) {
